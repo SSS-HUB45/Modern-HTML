@@ -1,0 +1,13 @@
+*{
+    background-color: darkkhaki;
+}
+table, tr, th, td{
+    border: 1px solid #ddd;
+    border-collapse: collapse;
+    padding: 10px;
+}
+table{
+    margin-bottom: 15px;
+    color: crimson;
+    background-color: chartreuse;
+}
